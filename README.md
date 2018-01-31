@@ -1,3 +1,10 @@
+
+
+
+<p align="center">
+<img src="https://avatars1.githubusercontent.com/u/13300590?s=200&v=4" alt="Vuejs Brasil">
+</p>
+
 # Fórum Vuejs :beer: 
 
 Este repo estará seguindo a ideia do @frontendbr/forum e catalogando as mais variadas discussões sobre o Vuejs e suas ramificações.
