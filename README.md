@@ -19,3 +19,5 @@ Todas elas cumprem um próposito próprio. Mas ainda falta um fórum :heart_eyes
 ## Como funciona
 
 Basta clicar na abinha [Issues](https://github.com/vuejs-br/forum/issues) e abrir um tópico. Fique a vontade em perguntar, sugerir, dar uma dica etc. Os moderadores irão *tagear* e monitorar o tópico. Enjoy!! :smirk: 
+
+<!-- lista de emoji https://gist.github.com/rxaviers/7360908 -->
