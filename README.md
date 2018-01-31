@@ -2,6 +2,8 @@
 
 Este repo estará seguindo a ideia do @frontendbr/forum e catalogando as mais variadas discussões sobre o Vuejs e suas ramificações.
 
+> **Disclaimer:** _As opiniões aqui publicadas são de inteira responsabilidade de seus autores e não refletem, necessariamente, o posicionamento da organização._ 
+
 ## Motivação
 
 Cada vez mais nossa comunidade Vue.js se fortalece em terras tupiniquins! Temos os mais diversos meios de comunicação e troca de ideias, dentre elas destacando:
