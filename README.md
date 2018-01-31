@@ -16,7 +16,7 @@ Cada vez mais nossa comunidade Vue.js se fortalece em terras tupiniquins! Temos 
 
 Todas elas cumprem um próposito próprio. Mas ainda falta um fórum :heart_eyes: onde ideias, dúvidas, sugestões e dicas possam ser organizadas. Além disso, uma dúvida aqui pode ser facilmente encontrada pelo Google, o que irá agregar um valor enorme ao desenvolvimento Vuejs no Brasil. Grupos do Face ou rodas de bate papo do Slack não agregam esse valor, mas um fórum sim!
 
-**Mas um fórum no github?** Sim!! Seguindo a idéia do @frontendbr/forum que possui formato semelhante e está a todo vapor
+**Mas um fórum no github?** Sim!! Seguindo a idéia do [@frontendbr/forum](https://github.com/frontendbr/forum) que possui formato semelhante e está a todo vapor
 
 ## Como funciona
 
