@@ -14,7 +14,9 @@ Cada vez mais nossa comunidade Vue.js se fortalece em terras tupiniquins! Temos 
 - Slack https://vuejs-brasil.herokuapp.com/
 - StackOverflow http://pt.stackoverflow.com/questions/tagged/vuejs
 
-Todas elas cumprem um próposito próprio. Mas ainda falta um fórum :heart_eyes: onde ideias, dúvidas, sugestões e dicas possam ser organizadas. Além disso, uma dúvida aqui pode ser facilmente encontrada pelo Google, o que irá agregar um valor enorme ao desenvolvimento Vuejs no Brasil. Grupos do Face ou rodas de bate papo do Slack não agregam esse valor, mas um fórum sim
+Todas elas cumprem um próposito próprio. Mas ainda falta um fórum :heart_eyes: onde ideias, dúvidas, sugestões e dicas possam ser organizadas. Além disso, uma dúvida aqui pode ser facilmente encontrada pelo Google, o que irá agregar um valor enorme ao desenvolvimento Vuejs no Brasil. Grupos do Face ou rodas de bate papo do Slack não agregam esse valor, mas um fórum sim!
+
+**Mas um fórum no github?** Sim!! Seguindo a idéia do @frontendbr/forum que possui formato semelhante e está a todo vapor
 
 ## Como funciona
 
