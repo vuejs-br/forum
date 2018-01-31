@@ -13,5 +13,6 @@ seu codigo aqui
 Caso seja necessário adicionar alguma imagem, você pode arrastá-la diretamente para o editor, 
 o GitHub irá realizar o upload automaticamente. Um ctrl+v com a imagem na área de transferência também funciona! 
 
+Lembre-se, não há pergunta ruim, o ruim é não perguntar!!
 Você pode apagar este comentário agora e escrever o seu tópico. Enjoy ;)
 -->
