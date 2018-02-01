@@ -30,3 +30,12 @@ Todas elas cumprem um próposito próprio. Mas ainda falta um fórum :heart_eyes
 Basta clicar na abinha [Issues](https://github.com/vuejs-br/forum/issues) e abrir um tópico. Fique a vontade em perguntar, sugerir, dar uma dica etc. Os moderadores irão *tagear* e monitorar o tópico. Enjoy!! :smirk: 
 
 <!-- lista de emoji https://gist.github.com/rxaviers/7360908 -->
+
+## Notificações
+
+Você pode receber notificações por email do fórum clicando no botão Watch
+
+![2018-01-31 22_04_55-editing forum_readme md at master vuejs-br_forum](https://user-images.githubusercontent.com/1509692/35654152-de2d0f2c-06d2-11e8-8842-487701f0301e.png)
+
+
+
